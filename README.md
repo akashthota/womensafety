@@ -7,7 +7,7 @@ Mobile app built for the safety of women.
 Use the version control to access it.
 
 ```bash
-https://github.com/mahathii/WomenSafety.git
+https://github.com/akashthota/womensafety.git
 ```
 
 ## Contributing
